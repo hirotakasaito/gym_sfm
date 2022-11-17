@@ -2,7 +2,7 @@
 
 Requirements
 
-```pip3 install gym box2d-py cython```
+```pip3 install gym==0.18.3 box2d-py cython```
 
 Demo
 
